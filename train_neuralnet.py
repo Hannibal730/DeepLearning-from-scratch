@@ -1,5 +1,6 @@
 # 밑바닥 딥러닝1권 p143-145 직접 주석달며 공부하기
 
+
 import sys
 import os
 sys.path.append(os.pardir)
