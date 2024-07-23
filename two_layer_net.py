@@ -1,4 +1,4 @@
-# p.180 오차역전파법을 적용한 신경망 구현
+# p.181-182 오차역전파법을 적용한 신경망 구현 주석달며 공부하기
 
 import sys, os
 sys.path.append(os.pardir)
