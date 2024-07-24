@@ -227,7 +227,7 @@ class TwoLayerNet:
         grads = {}
         
         grads['W1'] = self.layers['Affine1'].dW
-        # __init__에서  를 했는데, 이 중 어파인 클래스의 역전파함수 (p.172에서 내가 증명했던 거)
+        # 어파인 클래스의 역전파함수 (p.172에서 내가 증명했던 거)
         
         grads['b1'] = self.layers['Affine1'].db
         # 마찬가지
